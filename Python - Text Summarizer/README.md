@@ -32,7 +32,7 @@ The model is trained on the [Amazon Fine Food Reviews](https://www.kaggle.com/da
   * `Text`: The body of the review (input to the model).
   * `Summary`: The user-written summary of the review (target for the model).
 
-## ⚙️ How to Run the Project
+## How to Run the Project
 
 ### 1\. Prerequisites
 
@@ -90,7 +90,7 @@ Review : This is the best coffee I have ever tasted. It has a rich, bold flavor 
 Predicted summary: best coffee ever
 ```
 
-## 🧠 Model Architecture
+## Model Architecture
 
 The model consists of two main parts: an Encoder and a Decoder.
 
